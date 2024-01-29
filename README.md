@@ -20,11 +20,11 @@ This project is an exercise in basic programming using the Java language.
 
 ## Project Goals:
 - Student can write **Data Types** and **Variables**
-- Peserta dapat menggunakan **Arrays as Data Storage**
-- Peserta dapat menggunakan **Operator**
-- Peserta dapat menggunakan **Input-Output Scheme**
-- Peserta dapat menerapkan **Looping** in programming
-- Peserta dapat menerapkan **Branching** in programming.
+- Participants can use **Arrays as Data Storage**
+- Participants can use **Operator**
+- Participants can use **Input-Output Scheme**
+- Participants can implementation **Looping** in programming
+- Participants can implementation **Branching** in programming.
 
 ## Tech Stack
 #### Programming Language
