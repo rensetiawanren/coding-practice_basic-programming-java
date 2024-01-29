@@ -1,12 +1,13 @@
-# CODING PRACTICE - Basic Programming Java
-This project is an exercise of basic programming using the Java language.
-
 <kbd>
     <img align="center" width="auto" height="auto" style="border-radius: 10px" src=""/>
 </kbd>
 
 ---
 
+# CODING PRACTICE - Basic Programming Java
+This project is an exercise of basic programming using the Java language.
+
+---
 
 ## Table of Content
 1. [Project Goals](#project-goals)
