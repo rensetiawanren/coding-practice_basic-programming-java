@@ -11,9 +11,8 @@
 1. [Project Instruction](#project-instruction)
 2. [Project Goals](#project-goals)
 3. [Tech Stack](#tech-stack)
-4. [Work Flow](#workflow)
-5. [Task](#task)
-6. [Documentation](#documentation)
+4. [Task](#task)
+5. [Documentation](#documentation)
 
 ## Project Instruction
 This project is an exercise in basic programming using the Java language.
@@ -61,8 +60,8 @@ This project is an exercise in basic programming using the Java language.
       </a>
 </p>
 
-## Workflow
-Solve the problem bellow using Java.
+<!-- ## Workflow
+ -->
 
 ### Task
 #### 1. Menghitung Luas Segitiga   
