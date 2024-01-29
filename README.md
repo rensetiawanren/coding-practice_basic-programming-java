@@ -1,4 +1,5 @@
 # CODING PRACTICE - Basic Programming Java
+This project is an exercise of basic programming using the Java language.
 
 <kbd>
     <img align="center" width="auto" height="auto" style="border-radius: 10px" src=""/>
@@ -8,14 +9,13 @@
 
 
 ## Table of Content
-1. [Project Instruction](#project-instruction)
-2. [Project Goals](#project-goals)
-3. [Tech Stack](#tech-stack)
-4. [Task](#task)
-5. [Documentation](#documentation)
+1. [Project Goals](#project-goals)
+2. [Tech Stack](#tech-stack)
+3. [Task](#task)
+4. [Documentation](#documentation)
 
-## Project Instruction
-This project is an exercise in basic programming using the Java language.
+<!-- ## Project Instruction
+ -->
 
 ## Project Goals:
 - Participants can write **Data Types** and **Variables**
