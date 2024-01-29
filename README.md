@@ -19,7 +19,7 @@
 This project is an exercise in basic programming using the Java language.
 
 ## Project Goals:
-- Student can write **Data Types** and **Variables**
+- Participants can write **Data Types** and **Variables**
 - Participants can use **Arrays as Data Storage**
 - Participants can use **Operator**
 - Participants can use **Input-Output Scheme**
