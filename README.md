@@ -19,7 +19,7 @@
 This project is an exercise in basic programming using the Java language.
 
 ## Project Goals:
-- Peserta dapat menuliskan **Data Types** and **Variables**
+- Student can write **Data Types** and **Variables**
 - Peserta dapat menggunakan **Arrays as Data Storage**
 - Peserta dapat menggunakan **Operator**
 - Peserta dapat menggunakan **Input-Output Scheme**
@@ -27,14 +27,14 @@ This project is an exercise in basic programming using the Java language.
 - Peserta dapat menerapkan **Branching** in programming.
 
 ## Tech Stack
-**Programming Language**
+#### Programming Language
 <p align="justify">
   <!--[Java]-->
     <a href="https://www.java.com/">
       <img src="https://img.shields.io/badge/-Java-272727?style=flat-square&logo=java&logoColor="/>
 </p>    
 
-**Versioning Control**
+#### Versioning Control
 <p align="justify">    
   <!--[Git]-->
     <a href="https://git-scm.com/">
@@ -46,14 +46,14 @@ This project is an exercise in basic programming using the Java language.
     </a>    
 </p>    
 
-**IDE**
+#### IDE
 <p align="justify">    
   <!--[IntelliJ IDEA]-->
     <a href="https://www.jetbrains.com/idea/">
       <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-272727?style=flat-square&logo=intelliJ-idea&logoColor="/>
     </a>
 
-**Operating System**
+#### Operating System
 <p align="justify">
     <!--[Fedora]-->
       <a href="https://getfedora.org/">
@@ -61,7 +61,7 @@ This project is an exercise in basic programming using the Java language.
       </a>
 </p>
 
-## Workflow:
+## Workflow
 Solve the problem bellow using Java.
 
 ### Task
@@ -167,14 +167,22 @@ false
 #### 6. Palindrome
 Kata palindome adalah sebuah kata yang jika dibalik  tetap sama. Contoh, 'katak' dibalik tetap 'katak'. Buatlah sebuah program untuk mendeteksi sebuah string merupakan palindrome atau tidak?
 
+**Input:**
 ```
-Sample Test Case
+katak
+```
+**Output:**
+```
+True
+```
 
-Input: katak
-Output: True
-
-Input: kupu-kupu
-Output: false
+**Input:**
+```
+kupu-kupu
+```
+**Output:**
+```
+false
 ```
 
 #### 7. Exponentation
@@ -184,11 +192,12 @@ Output: false
 #### 9. Draw XYZ
 Buatlah sebuah function bernama drawXYZ yang menjalankan proses dengan menggunakan looping dan menerima satu parameter bernama height. Buatlah sebuah pola kemunculan simbol X, Y, dan Z di print, dimana Y mewakili kelipatan ganjil, Z kelipatan genap, dan X khusus kelipatan 3.
 
+**Input:**
 ```
-Sample Test Case
-
-Input: 5
-Output:
+5
+```
+**Output:**
+```
 Y Z X Z Y
 X Y Z X Z
 Y X Y Z X
@@ -205,15 +214,24 @@ Diberikan sebuah program yang menerima sebuah input array angka. Program akan me
 
 **Mean** adalah angka rata-rata dari deret bilangan tersebut. Contoh, mean dari [1,2,3,4] 2.5. Kita perlu kemudian melakukan pembulatan angka dari hasil mean yang didapatkan
 
+**Input:**
 ```
-Sample Test Case
-
-Input: [1,2,3,4]
-Output: 2.5
+[1,2,3,4]
+```
+**Output:**
+```
+2.5
 ```
 
-<!-- Documentation -->
 ## Documentation
-[Documentation]()
+### To-Do
+- [ ] Complete Workflow
+- [ ] Complete Task
+- [ ] Create Documentation Report
+
+### Report
+- [Presentation]()
+- [Documentation]()
+
 
 ---
