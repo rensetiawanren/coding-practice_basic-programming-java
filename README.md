@@ -5,7 +5,7 @@
 ---
 
 # CODING PRACTICE - Basic Programming Java
-This project is an exercise of basic programming using the Java language.
+This project is an exercise of basic programming using Java language.
 
 ---
 
