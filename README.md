@@ -5,26 +5,26 @@
 <p align="right">PR-004-00001</p>
 
 # CODING PRACTICE - Basic Programming Java
-This project create a simple Java program that demonstrates basic programming concepts in Java. The program will include 
+This project create a simple Java program that demonstrates basic programming concepts in Java. The program will include:
+- **Data Types** and **Variables** <!-- will use different types of variables in Java and how to declare and initialize them. -->
+- **Arrays as Data Storage** <!-- in Java and how to use them. -->
+- **Operator**
+- **Input-Output Scheme**
+- **Looping**
+- **Branching**
 
 ---
 
 ## Table of Content
-1. [Project Goals](#project-goals)
-2. [Tech Stack](#tech-stack)
-3. [Task](#task)
-4. [Documentation](#documentation)
+1. [Tech Stack](#tech-stack)
+2. [Task](#task)
+3. [Documentation](#documentation)
 
 <!-- ## Project Instruction
  -->
 
-## Project Goals
-- Participants can write **Data Types** and **Variables**
-- Participants can use **Arrays as Data Storage**
-- Participants can use **Operator**
-- Participants can use **Input-Output Scheme**
-- Participants can implementation **Looping** in programming
-- Participants can implementation **Branching** in programming.
+<!-- ## Project Goals
+- -->
 
 ## Tech Stack
 #### Programming Language
