@@ -15,10 +15,11 @@ This project create a simple Java program that demonstrates basic programming co
 
 ---
 
-## Table of Content
+<!-- ## Table of Content
 1. [Tech Stack](#tech-stack)
 2. [Task](#task)
 3. [Documentation](#documentation)
+ -->
 
 <!-- ## Project Instruction
  -->
