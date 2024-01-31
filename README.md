@@ -2,7 +2,7 @@
     <img align="center" width="auto" height="auto" style="border-radius: 10px" src=""/>
 </kbd>
 
----
+<p align="right">PR-004-00001</p>
 
 # CODING PRACTICE - Basic Programming Java
 This project is an exercise of basic programming using Java language.
@@ -18,7 +18,7 @@ This project is an exercise of basic programming using Java language.
 <!-- ## Project Instruction
  -->
 
-## Project Goals:
+## Project Goals
 - Participants can write **Data Types** and **Variables**
 - Participants can use **Arrays as Data Storage**
 - Participants can use **Operator**
@@ -64,8 +64,8 @@ This project is an exercise of basic programming using Java language.
 <!-- ## Workflow
  -->
 
-### Task
-#### 1. Menghitung Luas Segitiga   
+## Task
+### 1. Menghitung Luas Segitiga   
 Andi menggambar sebuah segitiga yang alasnya berukuran **alas** cm dan tingginya berukuran **tinggi** cm. Ia ingin menghitung luas dari segitiga tersebut, bantulah Andi untuk menghitung luas segitiga!
 
 **Input:**
@@ -78,7 +78,7 @@ Tinggi = 25
 250
 ```
 
-#### 2. Konversi Nilai
+### 2. Konversi Nilai
 Seorang Dosen sedangn memeriksa ujian mahasiswa dan akan memberikan nilai pada mahasiswa dengan A, B+, B, C, dan D. Kriteria penilaian dosen adalah sebagai berikut:
 <table>
   <tr>
@@ -110,7 +110,7 @@ Seorang Dosen sedangn memeriksa ujian mahasiswa dan akan memberikan nilai pada m
 **Apabila nilai < 0 dan > 100, maka nilainya "invalid".**
 **Tampilkan nilai konversi angka ke huruf!**
 
-#### 3. Faktor Bilangan
+### 3. Faktor Bilangan
 Faktor suatu bilangan yang habis membagi bilangan tersebut.
 Tugas anda adalah untuk membuat sebuah program untuk mencetak faktor sebuah bilangan.
 
@@ -140,10 +140,10 @@ Tugas anda adalah untuk membuat sebuah program untuk mencetak faktor sebuah bila
 20
 ```
 
-#### 4. Faktor Bilangan II
+### 4. Faktor Bilangan II
 
 
-#### 5. Bilangan Prima
+### 5. Bilangan Prima
 Dalam matematika, bilngan prima adalah bilangan asli yang lebih besar dari angka 1, yang faktor pembaginya adalah 1 dan bilangan itu sendiri. 2 dan 3 bilangan prima, 4 bukan bilangan prima karena 4 bisa dibagi 2. Kamu diminta untuk membuat fungsi untuk menentukan bahwa sebuah bilangan termasuk bilangan prima atau tidak.
 
 **Input:**
@@ -164,7 +164,7 @@ true
 false
 ```
 
-#### 6. Palindrome
+### 6. Palindrome
 Kata palindome adalah sebuah kata yang jika dibalik  tetap sama. Contoh, 'katak' dibalik tetap 'katak'. Buatlah sebuah program untuk mendeteksi sebuah string merupakan palindrome atau tidak?
 
 **Input:**
@@ -185,11 +185,11 @@ kupu-kupu
 false
 ```
 
-#### 7. Exponentation
+### 7. Exponentation
 
-#### 8. Play With Asterix
+### 8. Play With Asterix
 
-#### 9. Draw XYZ
+### 9. Draw XYZ
 Buatlah sebuah function bernama drawXYZ yang menjalankan proses dengan menggunakan looping dan menerima satu parameter bernama height. Buatlah sebuah pola kemunculan simbol X, Y, dan Z di print, dimana Y mewakili kelipatan ganjil, Z kelipatan genap, dan X khusus kelipatan 3.
 
 **Input:**
@@ -205,11 +205,11 @@ Z Y X Y Z
 X Z Y X Y
 ```
 
-#### 10. Catak Tabel Perkalian
+### 10. Catak Tabel Perkalian
 
-#### 11. Ubah Huruf
+### 11. Ubah Huruf
 
-#### 12. Mean
+### 12. Mean
 Diberikan sebuah program yang menerima sebuah input array angka. Program akan menampilkan mean dari array angka tersebut.
 
 **Mean** adalah angka rata-rata dari deret bilangan tersebut. Contoh, mean dari [1,2,3,4] 2.5. Kita perlu kemudian melakukan pembulatan angka dari hasil mean yang didapatkan
@@ -224,12 +224,12 @@ Diberikan sebuah program yang menerima sebuah input array angka. Program akan me
 ```
 
 ## Documentation
-### To-Do
+#### To-Do
 - [ ] Complete Workflow
 - [ ] Complete Task
 - [ ] Create Documentation Report
 
-### Report
+#### Report
 - [Presentation]()
 - [Documentation]()
 
