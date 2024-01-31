@@ -230,7 +230,7 @@ Diberikan sebuah program yang menerima sebuah input array angka. Program akan me
 
 ## Documentation
 #### To-Do
-- [ ] Complete Workflow
+<!-- - [ ] Complete Workflow -->
 - [ ] Complete Task
 - [ ] Create Documentation Report
 
