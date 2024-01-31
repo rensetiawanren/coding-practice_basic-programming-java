@@ -5,7 +5,7 @@
 <p align="right">PR-004-00001</p>
 
 # CODING PRACTICE - Basic Programming Java
-This project is an exercise of basic programming using Java language.
+This project create a simple Java program that demonstrates basic programming concepts in Java. The program will include 
 
 ---
 
