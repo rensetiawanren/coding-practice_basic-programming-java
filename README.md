@@ -1,5 +1,5 @@
 <kbd>
-    <img align="center" width="auto" height="auto" style="border-radius: 10px" src=""/>
+    <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/PR-004-A-00001_1-COVER.jpg"/>
 </kbd>
 
 <p align="right">PR-004-00001</p>
