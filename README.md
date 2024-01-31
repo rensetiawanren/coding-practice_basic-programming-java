@@ -1,8 +1,8 @@
 <kbd>
-    <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/PR-004-A-00001_1-COVER.jpg"/>
+    <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/P-SE_PR-010_00001-A_1-COVER.jpg"/>
 </kbd>
 
-<p align="right">PR-004-00001</p>
+<p align="right">P-SE_PR-010_00001</p>
 
 # CODING PRACTICE - Basic Programming Java
 This project create a simple Java program that demonstrates basic programming concepts in Java. The program will include:
